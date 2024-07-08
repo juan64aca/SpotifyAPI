@@ -8,6 +8,7 @@ env/
 
 # Ignore environment variables files
 .env
+token.json
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
